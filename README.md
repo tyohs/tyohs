@@ -1,16 +1,66 @@
-## Hi there 👋
+# ✋Hi, I'm yoh
+
+### Languages and Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind,prisma,supabase,postgres,docker,vercel,azure,c,git,github,vscode" alt="Languages and tools" />
+</div>
+
+### Activities
+
+<br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,git,github,vscode" />
-</div>
-<br>
+  <img src="https://github-readme-stats-ftxx.vercel.app/api?username=tyohs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats-ftxx.vercel.app/api/top-langs/?username=tyohs&layout=compact&theme=tokyonight&hide=html,css&langs_count=8" height="150" alt="Top languages" />
+  <br />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=tyohs&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <br />
+  <br />
+ </div>
 
-📊 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tyohs&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyohs&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+</details>
 
-  <br>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyohs&theme=github-compact" alt="Activity Graph" />
-</div>
+
+### Status
+
+- Student at Toyo University, INIAD(Faculty of Information Networking for Innovation and Design)
+- 42 Tokyo student
+- Job history: 
+  - 25/12~ : Full-stack Engineering Intern at StartGear Inc. working with TypeScript and Next.js
+- Community: Founder / representative of [geeken](https://github.com/geeken-iniad), a student tech community
+
+
+### Projects
+
+- [MinKara](https://github.com/tyohs/MinKara)  
+  A real-time karaoke party app where everyone in the room can participate.  
+  Role: Team lead / Frontend  
+  Stack: Next.js, TypeScript, Supabase, Web Audio API
+
+- [Eda.ai / Fraska](https://github.com/50ki-1706/Eda.ai)  
+  An AI chat app that manages conversations like Git branches.  
+  Role: Frontend  
+  Stack: Next.js, TypeScript, Prisma, Docker
+
+
+### Skills
+
+- Frontend
+  - TypeScript, React, Next.js, Tailwind CSS
+  - UI implementation, state management, API integration
+- Backend
+  - Node.js, Prisma, PostgreSQL, Supabase
+  - API design, authentication, database design
+- Tools / Infrastructure
+  - Git, GitHub, Docker, Vercel
+  - Azure AI Foundry
+- Fundamentals
+  - C, Shell, Unix, algorithms
+
+### Links
+
+- GitHub: https://github.com/tyohs
+- X / Twitter: [@tyohs4](https://x.com/tyohs4?s=11)
+
