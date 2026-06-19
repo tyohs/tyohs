@@ -36,7 +36,7 @@
 
 - [MinKara](https://github.com/tyohs/MinKara)  
   A real-time karaoke party app where everyone in the room can participate.  
-  Role: Team lead / Frontend  
+  Role: Team lead / Frontend / Backend 
   Stack: Next.js, TypeScript, Supabase, Web Audio API
 
 - [Eda.ai / Fraska](https://github.com/50ki-1706/Eda.ai)  
@@ -44,20 +44,6 @@
   Role: Frontend  
   Stack: Next.js, TypeScript, Prisma, Docker
 
-
-### Skills
-
-- Frontend
-  - TypeScript, React, Next.js, Tailwind CSS
-  - UI implementation, state management, API integration
-- Backend
-  - Node.js, Prisma, PostgreSQL, Supabase
-  - API design, authentication, database design
-- Tools / Infrastructure
-  - Git, GitHub, Docker, Vercel
-  - Azure AI Foundry
-- Fundamentals
-  - C, Shell, Unix, algorithms
 
 ### Links
 
