@@ -19,7 +19,7 @@
 
 ターミナルをモチーフにした自己紹介サイトです。生成AIへの質問機能には、Turnstile、IP/全体レート制限、timeout、出力制限を設けています。
 
-`Next.js` `TypeScript` `OpenAI API` `Upstash Redis`
+`Next.js` `TypeScript` `OpenRouter` `Upstash Redis`
 
 ### [Eda.ai / Fraska](https://github.com/50ki-1706/Eda.ai)
 
