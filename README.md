@@ -1,52 +1,54 @@
-# ✋Hi, I'm yoh
+# Hi, I'm Yoh Kaminaga 👋
 
-### Languages and Tools
+東洋大学 INIAD の学部2年生です。TypeScript / React / Next.js を中心に、Webアプリを「動かす」だけでなく、チームで安全に改善し続けられる設計を学んでいます。
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind,prisma,supabase,postgres,docker,vercel,azure,c,git,github,vscode" alt="Languages and tools" />
-</div>
+- 🧑‍💻 Full-stack Engineering Intern at StartGear Inc.（2025.12–）
+- 🏫 42 Tokyo — Cとコンピュータサイエンスの基礎を学習中
+- 🤝 学生技術コミュニティ [geeken](https://github.com/geeken-iniad) 代表
+- 🌱 関心領域: Realtime Web / AI-assisted development / Developer Experience
 
-### Activities
+## Featured projects
 
-<br />
+### [MinKara](https://github.com/tyohs/MinKara)
 
-<div align="center">
-  <img src="https://github-readme-stats-ftxx.vercel.app/api?username=tyohs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats-ftxx.vercel.app/api/top-langs/?username=tyohs&layout=compact&theme=tokyonight&hide=html,css&langs_count=8" height="150" alt="Top languages" />
-  <br />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=tyohs&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <br />
-  <br />
- </div>
+複数端末でルーム・音声・ゲーム進行を同期するリアルタイム音楽ゲームです。チームリーダーとして、フロントエンドからSupabaseを使ったデータ連携まで担当しました。
 
-</details>
+`Next.js` `TypeScript` `Supabase` `Web Audio API`
 
+### [Portfolio](https://github.com/tyohs/portfolio)
 
-### Status
+ターミナルをモチーフにした自己紹介サイトです。生成AIへの質問機能には、Turnstile、IP/全体レート制限、timeout、出力制限を設けています。
 
-- Student at Toyo University, INIAD(Faculty of Information Networking for Innovation and Design)
-- 42 Tokyo student
-- Job history: 
-  - 25/12~ : Full-stack Engineering Intern at StartGear Inc. working with TypeScript and Next.js
-- Community: Founder / representative of [geeken](https://github.com/geeken-iniad), a student tech community
+`Next.js` `TypeScript` `OpenAI API` `Upstash Redis`
 
+### [Eda.ai / Fraska](https://github.com/50ki-1706/Eda.ai)
 
-### Projects
+Gitのbranchのように会話を分岐させ、複数の思考を探索できるAIチャットアプリです。ハッカソンのチーム開発でフロントエンドを担当しました。
 
-- [MinKara](https://github.com/tyohs/MinKara)  
-  A real-time karaoke party app where everyone in the room can participate.  
-  Role: Team lead / Frontend / Backend 
-  Stack: Next.js, TypeScript, Supabase, Web Audio API
+`Next.js` `TypeScript` `Prisma` `Docker`
 
-- [Eda.ai / Fraska](https://github.com/50ki-1706/Eda.ai)  
-  An AI chat app that manages conversations like Git branches.  
-  Role: Frontend  
-  Stack: Next.js, TypeScript, Prisma, Docker
+### [Minesweeper](https://github.com/tyohs/minesweeper)
 
+UIとゲームルールを分離し、地雷配置・再帰展開・勝敗判定をunit testできる形で実装した学習プロジェクトです。
 
-### Links
+`React` `TypeScript` `Vitest`
 
-- GitHub: https://github.com/tyohs
-- X / Twitter: [@tyohs4](https://x.com/tyohs4?s=11)
+## Technologies
 
+- **Main:** TypeScript, React, Next.js
+- **Used in projects:** Node.js, Supabase, PostgreSQL, Prisma, Docker, Vercel, Azure
+- **Learning:** C, Python
+- **Workflow:** GitHub Actions, unit testing, lint / typecheck / build
+
+## What I value
+
+- まず動くものを作り、テストと小さなリファクタリングで改善する
+- UI、ドメインロジック、外部サービスとの境界を分ける
+- チームメンバーが再現できるREADME・環境変数例・CIを残す
+- 生成AIは速度だけでなく、秘密情報・コスト・失敗時の挙動まで考えて使う
+
+## Links
+
+- [Portfolio](https://github.com/tyohs/portfolio)
+- [GitHub](https://github.com/tyohs)
+- [X / Twitter](https://x.com/tyohs4)
