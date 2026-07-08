@@ -39,7 +39,7 @@
   Role: Team lead / Frontend / Backend 
   Stack: Next.js, TypeScript, Supabase, Web Audio API
 
-- [Eda.ai / Fraska](https://github.com/50ki-1706/Eda.ai)  
+- [Eda.ai](https://github.com/50ki-1706/Eda.ai)  
   An AI chat app that manages conversations like Git branches.  
   Role: Frontend  
   Stack: Next.js, TypeScript, Prisma, Docker
