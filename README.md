@@ -11,8 +11,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=tyohs&show_icons=true&theme=tokyonight&include_all_commits=true" height="150" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tyohs&layout=compact&theme=tokyonight&hide=html,css&langs_count=8" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats-qlql.vercel.app/api?username=tyohs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats-qlql.vercel.app/api/top-langs/?username=tyohs&layout=compact&theme=tokyonight&count_private=true&hide=html,css&langs_count=8" height="150" alt="Top languages" />
   <br />
   <br />
   <img src="https://streak-stats.demolab.com/?user=tyohs&theme=tokyonight&hide_border=true" alt="GitHub streak" />
