@@ -29,6 +29,7 @@
 - 42 Tokyo student
 - Job history: 
   - 25/12~ : Full-stack Engineering Intern at StartGear Inc. working with TypeScript and Next.js
+  - 26/8~9 : Full-stack Engineering Intern at Sansan.
 - Community: Founder / representative of [geeken](https://github.com/geeken-iniad), a student tech community
 
 
